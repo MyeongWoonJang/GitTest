@@ -1,5 +1,5 @@
 int main()
 {
-printf();
+ppppprintf();
 return 0
 }
